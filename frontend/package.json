@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.4"
+  }
+}
